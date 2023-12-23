@@ -1,0 +1,6 @@
+# Ignore directories
+__pycache__/
+spotify_env/Include/
+spotify_env/Lib/
+spotify_env/Scripts/
+spotify_env/share/
